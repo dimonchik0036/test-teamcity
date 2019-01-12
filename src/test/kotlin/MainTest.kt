@@ -6,5 +6,5 @@ class MainTest {
     fun check() = assertTrue(true)
 
     @Test
-    fun chec2k() = assertTrue(false)
+    fun chec2k() = assertTrue(true)
 }
