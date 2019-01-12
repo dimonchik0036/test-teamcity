@@ -3,5 +3,5 @@ import org.junit.Test
 
 class MainTest {
     @Test
-    fun check() = assertTrue(true)
+    fun check() = assertTrue(false)
 }
